@@ -20,9 +20,6 @@ images.forEach((img) => {
             });
 
         }
-
-
-
     })
 })
 updateBtn?.addEventListener("click", () =>{
